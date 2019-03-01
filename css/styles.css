@@ -185,7 +185,7 @@ button {
   }
 
   li, ol, ul {
-    padding: 0.3em;
+    padding: 0;
     display: inline-block;
   }
 
@@ -220,14 +220,15 @@ text-transform: uppercase;
     flex-direction: column;
     justify-content: space-around;
     height: 50%;
-    max-height: 900px;
-    margin-top: 150px;
+    max-height: 500px;
+    margin-top: 200px;
     text-align: center;
   }
 
   .section {
     width: 100%;
-    padding: 10px;
+    padding: 50px;
+
   }
 
   /* Title */
@@ -250,7 +251,7 @@ text-transform: uppercase;
 
   .header {
     color: var(--color-neutral);
-    margin-top: 1em;
+    margin-top: 5em;
     animation: none;
 
 
@@ -263,10 +264,10 @@ text-transform: uppercase;
 
   .letter {
     font-size: var(--font-size-medium);
-    height: 65px;
+    height: 45px;
     font-family: Roboto;
-    width: 65px;
-    padding: 20px 1px 0 1px;
+    width: 45px;
+    padding: 10px 2px 0 0px;
     margin-right: 10px;
     margin-bottom: 1em;
     color: transparent;
@@ -275,7 +276,7 @@ text-transform: uppercase;
   }
 
   .space {
-    width: 15px;
+    width: 5px;
   }
 
   .show {
@@ -288,8 +289,8 @@ text-transform: uppercase;
   /* Keyboard */
 
   .keyrow {
-    display: flex;
-    justify-content: center;
+    display:inline-block;
+
   }
 
   .chosen {
