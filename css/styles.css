@@ -182,6 +182,8 @@ button {
     justify-content: space-evenly;
     flex-direction: column;
     display: row;
+    margin-top: 50px;
+
   }
 
   li, ol, ul {
