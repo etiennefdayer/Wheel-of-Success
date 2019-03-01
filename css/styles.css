@@ -179,14 +179,13 @@ button {
 
 
   body {
-    margin-top: 10px;
     justify-content: space-evenly;
     flex-direction: column;
     display: row;
   }
 
   li, ol, ul {
-    padding: 0.2em;
+    padding: 0.3em;
     display: inline-block;
   }
 
@@ -222,7 +221,7 @@ text-transform: uppercase;
     justify-content: space-around;
     height: 50%;
     max-height: 900px;
-    margin-top: 580px;
+    margin-top: 150px;
     text-align: center;
   }
 
@@ -329,3 +328,4 @@ text-transform: uppercase;
 
 
 }
+
