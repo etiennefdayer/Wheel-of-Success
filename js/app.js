@@ -16,11 +16,9 @@ const scoreboard = document.querySelector ('#scoreboard');
 const scoreboardLi = document.querySelectorAll ('.tries');
 
 const phrases = [
-  'Bern is the capital of Switzerland',
-  'Moscow is the capital of Russia',
-  'Riga is the capital of Latvia',
-  'Warsaw is the capital of Poland',
-  'Minsk is the capital of Belarus'
+  'Raphael is the best trader in the world',
+  'Raphael is really great in bed',
+  
 ];
 
 
