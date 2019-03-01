@@ -179,11 +179,10 @@ button {
 
 
   body {
+    margin-top: 10px;
     justify-content: space-evenly;
     flex-direction: column;
     display: row;
-    margin-top: 100px;
-
   }
 
   li, ol, ul {
@@ -194,10 +193,13 @@ button {
 
 
   h2 {
-    margin: 0;
-    text-transform: uppercase;
-    font-family: 'Open Sans', sans-serif;
-    font-size: var(--font-size-large);
+text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    animation: bounceIn 3s;
+
+
+
   }
 
   button {
@@ -230,11 +232,42 @@ button {
   }
 
   /* Title */
+  @keyframes bounceIn {
+    0% {
+      transform: scale(0.1);
+      opacity: 0;
+    }
+    60% {
+      transform: scale(1.2);
+      opacity: 1;
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+
+
+
 
   .header {
-    color: var(--color-start);
+    color: var(--color-neutral);
     margin-top: 1em;
+    animation: none;
+
+
+
   }
+
+
+
+
+
+
+
+
+
+
+
 
   /* Phrase */
 
