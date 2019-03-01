@@ -16,10 +16,10 @@ const scoreboard = document.querySelector ('#scoreboard');
 const scoreboardLi = document.querySelectorAll ('.tries');
 
 const phrases = [
-  'Bern is the capital of Switzerland',
-  'Riga is the capital of Latvia', 
-  'Warsaw is the capital of Poland',
-  'Minsk is the capital of Belarus'
+  'Alexandra is going to Italy soon',
+  'Alexandra is the best designer in the world',
+  'Alexandra loves chocolate too much',
+  'I miss Alexandra too much'
   
 ];
 
