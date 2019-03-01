@@ -221,8 +221,8 @@ text-transform: uppercase;
     flex-direction: column;
     justify-content: space-around;
     height: 50%;
-    margin-top: 580px;
     max-height: 900px;
+    margin-top: 580px;
     text-align: center;
   }
 
@@ -247,6 +247,8 @@ text-transform: uppercase;
   }
 
 
+
+
   .header {
     color: var(--color-neutral);
     margin-top: 1em;
@@ -255,6 +257,7 @@ text-transform: uppercase;
 
 
   }
+
 
 
   /* Phrase */
@@ -310,9 +313,11 @@ text-transform: uppercase;
   /* Overlay */
 
   #overlay {
+
+
     display: flex;
     flex-direction: column;
-    position: fixed;
+    position:fixed;
     color: #FFFFFF;
     justify-content: center;
     top: 0;
