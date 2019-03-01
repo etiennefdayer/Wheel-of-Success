@@ -1,3 +1,4 @@
+
 /* Main styles */
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&Roboto:300');
 
@@ -183,11 +184,11 @@ button {
     flex-direction: column;
     display: row;
     min-width: 50%;
-    margin-top: 250px;
+    margin-top: 200px;
   }
 
   li, ol, ul {
-    padding: 0;
+    padding: 1rem;
     display: inline-block;
   }
 
@@ -316,7 +317,7 @@ text-transform: uppercase;
 
   #overlay {
 
-
+    height:100vh;
     display: flex;
     flex-direction: column;
     position:fixed;
@@ -331,5 +332,3 @@ text-transform: uppercase;
 
 
 }
-
-
