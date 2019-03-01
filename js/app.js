@@ -16,8 +16,10 @@ const scoreboard = document.querySelector ('#scoreboard');
 const scoreboardLi = document.querySelectorAll ('.tries');
 
 const phrases = [
-  'Raphael is the best trader in the world',
-  'Raphael is really great in bed',
+  'Bern is the capital of Switzerland',
+  'Riga is the capital of Latvia', 
+  'Warsaw is the capital of Poland',
+  'Minsk is the capital of Belarus'
   
 ];
 
