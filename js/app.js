@@ -16,7 +16,7 @@ const scoreboard = document.querySelector ('#scoreboard');
 const scoreboardLi = document.querySelectorAll ('.tries');
 
 const phrases = [
-  'No idea what the missing phrase is'
+  'No idea what the missing phrase is',
   'Bern is the capital of Switzerland',
   'Moscow is the capital of Russia',
   'I love you'
