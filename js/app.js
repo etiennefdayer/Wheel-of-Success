@@ -19,7 +19,7 @@ const phrases = [
   'No idea what the missing phrase is',
   'Bern is the capital of Switzerland',
   'Moscow is the capital of Russia',
-  'I love you'
+  'I love you',
   
 ];
 
