@@ -17,7 +17,7 @@ const scoreboardLi = document.querySelectorAll ('.tries');
 
 const phrases = [
   'Warsaw is the capital of Poland',
-  'I love Javascript';
+  'I love Javascript'
   'Moscow is the capital of Russia',
   'I love you'
   
