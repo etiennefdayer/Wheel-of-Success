@@ -5,5 +5,5 @@ Wheel of Success is a game where users need to guess a random phrase by clicking
 
 Technology utilized : JavaScript (arrays, loops, conditionals, functions, events, etc.) and CSS transitions.
 
-<a href="https://htmlpreview.github.io/?https://github.com/etiennefdayer/Wheel-of-Success/blob/master/index.html">Click here to view</a>
+<a href="https://etiennefdayer.github.io/Wheel-of-Success/">Click here to view</a>
 
